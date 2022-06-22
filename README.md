@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amandaacosta5694, I go by Nic (They/Them)
-- 👀 I’m interested in ... Projects relating to Data Science and Industrial Organizational Psychology. Anything that has to do with improving the workplace, products and services.
+- 👀 I’m interested in ... Projects relating to Data Science and Industrial Organizational Psychology. Anything that has to do with improving workplace products and services.
 - 🌱 I’m currently learning ...So much about machine learning and Product analytics
-- 💞️ I’m looking to collaborate on ...projects
+- 💞️ I’m looking to collaborate on ...projects and gaining experience.
 - 📫 How to reach me ... LinkedIn, or amanda.acosta5694@gmail.com
 
 <!---

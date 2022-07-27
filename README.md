@@ -1,4 +1,5 @@
-![me on mauna kea-enhanced](https://user-images.githubusercontent.com/94863323/181297466-f664ad11-f1cf-453f-b3b7-c7dde9504f3a.jpg)
+![rsz_2me_on_mauna_kea_-_enhanced-resized](https://user-images.githubusercontent.com/94863323/181299388-bea0b3d7-5709-4a09-a5ae-d93f1f3607c6.jpg)
+
 
 - 👋 Hi, I’m @amandaacosta5694, I go by Nic (They/Them)
 - 👀 I’m interested in ... Projects relating to Data Science and Industrial Organizational Psychology. Anything that has to do with improving workplace products and services.

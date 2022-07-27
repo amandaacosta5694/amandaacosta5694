@@ -6,7 +6,8 @@
 - 👀 I’m interested in ... Projects relating to Data Science and Industrial Organizational Psychology. Anything that has to do with improving workplace products and services.
 - 🌱 I’m currently learning ... So much about AWS and Scrum for Data Solutions.
 - 💞️ I’m looking to collaborate on ... Projects relating to Data Science, Research, Business Analysis, Data Engineering, Data Architecture and Data Governance, as well as anything relating to Sustainability, Conservation and Natural Science.
-- 📫 How to reach me ... LinkedIn, or amanda.acosta5694@gmail.com
+- 📫 How to reach me ...amanda.acosta5694@gmail.com or 
+Linkedin - https://www.linkedin.com/in/nic-acosta-0b6313185/
 
 <!---
 amandaacosta5694/amandaacosta5694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

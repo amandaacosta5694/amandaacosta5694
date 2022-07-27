@@ -1,4 +1,5 @@
-![rsz_2me_on_mauna_kea_-_enhanced-resized](https://user-images.githubusercontent.com/94863323/181299388-bea0b3d7-5709-4a09-a5ae-d93f1f3607c6.jpg)
+![rsz_1rsz_1me_on_mauna_kea-enhanced](https://user-images.githubusercontent.com/94863323/181301236-58b2dbd3-2194-42f1-a865-b57da4d86d98.jpg)
+
 
 
 - 👋 Hi, I’m @amandaacosta5694, I go by Nic (They/Them)
